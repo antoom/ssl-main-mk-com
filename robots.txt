@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://antoom.github.io/ssl-main-mk-com/sitemap.xml
